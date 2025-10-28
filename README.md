@@ -21,5 +21,18 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates how to conne
 
 ---
 
-## 📂 Project Structure
+## 💡 How It Works
+1. The app uses `fetch()` to call the [CoinGecko API](https://www.coingecko.com/en/api/documentation).  
+2. It retrieves current prices for Bitcoin and Ethereum in USD.  
+3. The results are displayed dynamically in the webpage.
+
+---
+
+## 🖥️ Demo
+🔗 **Live Demo:** [https://00Nasimnouri00.github.io/crypto-price-tracker/](https://00Nasimnouri00.github.io/crypto-price-tracker/)  
+🔗 **GitHub Repository:** [https://github.com/00Nasimnouri00/crypto-price-tracker](https://github.com/00Nasimnouri00/crypto-price-tracker)
+
+
+--
+
 
